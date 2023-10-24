@@ -57,6 +57,7 @@ clients.braintree
 
 ## Current PSPs
 
+- [ACI Worldwide](https://docs.aciworldwide.com/reference/parameters#googlepay)
 - [Adyen](https://docs.adyen.com/payment-methods/google-pay/api-only)
 - [Barion](https://docs.barion.com/Google_Pay)
 - [BePaid](https://docs.bepaid.by/ru/google_pay/integration/owncheckout)

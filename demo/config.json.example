@@ -1,6 +1,20 @@
 {
 
   // See PSP's docs for full config details:
+  // https://docs.aciworldwide.com/reference/parameters#googlepay
+  "aciworldwide": {
+    "host": "https://eu-test.oppwa.com/v1/payments", // change for production
+    "entityId": "",
+    "bearer": "",
+    "paymentType": "",
+    "shopperResultUrl": "",
+    "clientConfig": {
+      "gateway": "aciworldwide",
+      "gatewayMerchantId": ""
+    }
+  },
+
+  // See PSP's docs for full config details:
   // https://docs.adyen.com/payment-methods/google-pay/api-only
   "adyen": {
     "environment": "TEST", // change for production
